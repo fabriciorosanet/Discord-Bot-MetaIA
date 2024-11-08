@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c08c0bca-ddde-423a-980f-14b4cd10987b)
+
 # Bot de Inteligência Artificial(MetaIA) para Discord
 
 Este projeto integra a inteligência artificial da META à plataforma Discord, permitindo que usuários interajam com um bot que responde a perguntas e fornece informações.
